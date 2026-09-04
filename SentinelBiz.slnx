@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/src/">
+    <Project Path="backend/src/SentinelBiz.AI/SentinelBiz.AI.csproj" />
+    <Project Path="backend/src/SentinelBiz.Analytics/SentinelBiz.Analytics.csproj" />
+    <Project Path="backend/src/SentinelBiz.Api/SentinelBiz.Api.csproj" />
+    <Project Path="backend/src/SentinelBiz.Application/SentinelBiz.Application.csproj" />
+    <Project Path="backend/src/SentinelBiz.Assessment/SentinelBiz.Assessment.csproj" />
+    <Project Path="backend/src/SentinelBiz.BusinessPlanning/SentinelBiz.BusinessPlanning.csproj" />
+    <Project Path="backend/src/SentinelBiz.Domain/SentinelBiz.Domain.csproj" />
+    <Project Path="backend/src/SentinelBiz.Finance/SentinelBiz.Finance.csproj" />
+    <Project Path="backend/src/SentinelBiz.Infrastructure/SentinelBiz.Infrastructure.csproj" />
+    <Project Path="backend/src/SentinelBiz.Integrations/SentinelBiz.Integrations.csproj" />
+    <Project Path="backend/src/SentinelBiz.Messaging/SentinelBiz.Messaging.csproj" />
+    <Project Path="backend/src/SentinelBiz.ML/SentinelBiz.ML.csproj" />
+    <Project Path="backend/src/SentinelBiz.Notifications/SentinelBiz.Notifications.csproj" />
+    <Project Path="backend/src/SentinelBiz.Support/SentinelBiz.Support.csproj" />
+    <Project Path="backend/src/SentinelBiz.Training/SentinelBiz.Training.csproj" />
+  </Folder>
+  <Folder Name="/backend/tests/">
+    <Project Path="backend/tests/SentinelBiz.ApiTests/SentinelBiz.ApiTests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.ContractTests/SentinelBiz.ContractTests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.E2ETests/SentinelBiz.E2ETests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.IntegrationTests/SentinelBiz.IntegrationTests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.MutationTests/SentinelBiz.MutationTests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.PerformanceTests/SentinelBiz.PerformanceTests.csproj" />
+    <Project Path="backend/tests/SentinelBiz.UnitTests/SentinelBiz.UnitTests.csproj" />
+  </Folder>
+</Solution>
