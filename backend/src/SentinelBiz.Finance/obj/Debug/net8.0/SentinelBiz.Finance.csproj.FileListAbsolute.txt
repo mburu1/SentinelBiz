@@ -1,0 +1,12 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\bin\Debug\net8.0\SentinelBiz.Finance.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\bin\Debug\net8.0\SentinelBiz.Finance.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\bin\Debug\net8.0\SentinelBiz.Finance.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\refint\SentinelBiz.Finance.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\SentinelBiz.Finance.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Finance\obj\Debug\net8.0\ref\SentinelBiz.Finance.dll

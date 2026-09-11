@@ -44,7 +44,14 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Application\\SentinelBiz.Application.csproj": {
+              "projectPath": "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Application\\SentinelBiz.Application.csproj"
+            },
+            "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Infrastructure\\SentinelBiz.Infrastructure.csproj": {
+              "projectPath": "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Infrastructure\\SentinelBiz.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\bin\Debug\net8.0\SentinelBiz.Messaging.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\bin\Debug\net8.0\SentinelBiz.Messaging.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\bin\Debug\net8.0\SentinelBiz.Messaging.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\refint\SentinelBiz.Messaging.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\SentinelBiz.Messaging.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Messaging\obj\Debug\net8.0\ref\SentinelBiz.Messaging.dll

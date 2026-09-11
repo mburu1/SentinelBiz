@@ -1,0 +1,12 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\bin\Debug\net8.0\SentinelBiz.AI.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\bin\Debug\net8.0\SentinelBiz.AI.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\bin\Debug\net8.0\SentinelBiz.AI.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\refint\SentinelBiz.AI.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\SentinelBiz.AI.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.AI\obj\Debug\net8.0\ref\SentinelBiz.AI.dll

@@ -1,11 +1,49 @@
 {
   "version": 4,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "SentinelBiz.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SentinelBiz.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SentinelBiz.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SentinelBiz.Application.dll": {}
+        }
+      },
+      "SentinelBiz.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SentinelBiz.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SentinelBiz.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SentinelBiz.Application/1.0.0": {
+      "type": "project",
+      "path": "../SentinelBiz.Application/SentinelBiz.Application.csproj",
+      "msbuildProject": "../SentinelBiz.Application/SentinelBiz.Application.csproj"
+    },
+    "SentinelBiz.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SentinelBiz.Domain/SentinelBiz.Domain.csproj",
+      "msbuildProject": "../SentinelBiz.Domain/SentinelBiz.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "SentinelBiz.Application >= 1.0.0",
+      "SentinelBiz.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Mwangi Wa Mburu\\.nuget\\packages\\": {},
@@ -41,7 +79,14 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Application\\SentinelBiz.Application.csproj": {
+              "projectPath": "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Application\\SentinelBiz.Application.csproj"
+            },
+            "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Domain\\SentinelBiz.Domain.csproj": {
+              "projectPath": "D:\\Mwangi Wa Mburu\\Coding\\SentinelBiz\\backend\\src\\SentinelBiz.Domain\\SentinelBiz.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

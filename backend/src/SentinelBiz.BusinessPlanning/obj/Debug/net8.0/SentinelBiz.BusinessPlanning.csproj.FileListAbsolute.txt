@@ -1,0 +1,12 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\bin\Debug\net8.0\SentinelBiz.BusinessPlanning.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\bin\Debug\net8.0\SentinelBiz.BusinessPlanning.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\bin\Debug\net8.0\SentinelBiz.BusinessPlanning.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\refint\SentinelBiz.BusinessPlanning.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\SentinelBiz.BusinessPlanning.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.BusinessPlanning\obj\Debug\net8.0\ref\SentinelBiz.BusinessPlanning.dll

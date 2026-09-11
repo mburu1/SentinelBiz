@@ -1,0 +1,16 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\bin\Debug\net8.0\SentinelBiz.Application.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\bin\Debug\net8.0\SentinelBiz.Application.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\bin\Debug\net8.0\SentinelBiz.Application.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\bin\Debug\net8.0\SentinelBiz.Domain.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\bin\Debug\net8.0\SentinelBiz.Domain.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.csproj.AssemblyReference.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\Sentinel.807E5263.Up2Date
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\refint\SentinelBiz.Application.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\SentinelBiz.Application.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.Application\obj\Debug\net8.0\ref\SentinelBiz.Application.dll

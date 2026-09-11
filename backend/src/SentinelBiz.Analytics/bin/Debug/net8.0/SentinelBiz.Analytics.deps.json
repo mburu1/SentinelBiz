@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SentinelBiz.Analytics/1.0.0": {
+        "runtime": {
+          "SentinelBiz.Analytics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentinelBiz.Analytics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

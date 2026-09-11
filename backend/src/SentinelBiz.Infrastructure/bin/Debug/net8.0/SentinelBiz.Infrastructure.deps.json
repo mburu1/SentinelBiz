@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SentinelBiz.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SentinelBiz.Application": "1.0.0",
+          "SentinelBiz.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SentinelBiz.Infrastructure.dll": {}
+        }
+      },
+      "SentinelBiz.Application/1.0.0": {
+        "dependencies": {
+          "SentinelBiz.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SentinelBiz.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SentinelBiz.Domain/1.0.0": {
+        "runtime": {
+          "SentinelBiz.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentinelBiz.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SentinelBiz.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SentinelBiz.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

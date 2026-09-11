@@ -1,0 +1,12 @@
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\bin\Debug\net8.0\SentinelBiz.ML.deps.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\bin\Debug\net8.0\SentinelBiz.ML.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\bin\Debug\net8.0\SentinelBiz.ML.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.AssemblyInfoInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.AssemblyInfo.cs
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.csproj.CoreCompileInputs.cache
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.sourcelink.json
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\refint\SentinelBiz.ML.dll
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\SentinelBiz.ML.pdb
+D:\Mwangi Wa Mburu\Coding\SentinelBiz\backend\src\SentinelBiz.ML\obj\Debug\net8.0\ref\SentinelBiz.ML.dll
